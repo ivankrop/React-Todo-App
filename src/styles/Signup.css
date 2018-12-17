@@ -1,0 +1,20 @@
+.signup-container{
+    text-align: center;
+    margin-top:4%;
+}
+
+.error{
+    box-shadow: 0 0 5px rgb(68, 0, 0);
+}
+
+.inputfield{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.inputs{
+
+    width: 370px;
+    display: block;
+    margin:30px auto;
+}

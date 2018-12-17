@@ -1,0 +1,54 @@
+.todos-container, .btn-new{
+    width: 400px;
+    margin: auto;
+    margin-top:30px;
+}
+.todoitem{
+    display: flex;
+    justify-content: space-between
+}
+.todo-buttons{
+    display: flex;
+}
+ul{
+    margin-top:15px;
+    padding-left: 0px
+}
+.removebutton{
+    opacity: 0;
+    margin-right: 10px;
+}
+.todoitem:hover .removebutton{
+    opacity: 1;
+}
+.todo:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.todoLink{
+    vertical-align: -9px;
+    margin: 10px;
+}
+.logoheader{
+    display: flex;
+    justify-content: center;
+}
+.add-button{
+    margin-left: 10px;
+}
+.tododetails{
+    margin: 100px auto;
+    max-width: 450px;
+}
+.indicator{
+    display: flex;
+    align-items: center;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}

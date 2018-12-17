@@ -1,0 +1,14 @@
+.login-container{
+    text-align: center;
+    margin-top:10%;
+}
+.inputf{
+    margin: 10px;
+}
+.error{
+    box-shadow: 0 0 5px rgb(68, 0, 0);
+}
+.error-massage{
+    margin-top:10px;
+    color: rgb(68, 0, 0);
+}

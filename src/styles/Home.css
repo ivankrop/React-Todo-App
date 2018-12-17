@@ -1,0 +1,14 @@
+.home-container{
+    background: url('../img/homebackground.jpg') center top;
+    background-size: cover;
+    height: 93.5vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.header-title{
+    color: white;
+    text-shadow: rgba(0, 0, 0, 0.61) 0 0 20px;
+    margin-bottom: 70px;
+}

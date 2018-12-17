@@ -1,0 +1,17 @@
+.header a{
+    color: white;
+}
+a:hover{
+    color: darkgrey;
+    text-decoration: none;
+}
+.regbuttons{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.regbutton{
+    width: 150px;
+    display: flex;
+    justify-content: flex-end
+}
